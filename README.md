@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ABHISHEK SINGH
 - 👀 I’m interested in error solving & solving question.
-- 🌱 I’m learned c++ language & data structure and algorithm.
+- 🌱 I know c++ & python language & data structure and algorithm.
 - 📫 You can reach me on linkedln linkedin.com/in/abhishek-singh-89086425a
 
 <!---
